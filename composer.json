@@ -1,0 +1,12 @@
+{
+    "name": "vinsofts_training_072018/qlhs_thangbeo",
+    "description": "demo package",
+    "authors": [
+        {
+            "name": "vinsofts-thangnq",
+            "email": "thangnq@vinsofts.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
